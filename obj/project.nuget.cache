@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJRiVyHwt8pUq0cwXgwWucrGqut+L+QZpcvm0EjtegQe/xaRiPtHZ58cORqGQY10x6838t7Id61GthU6t+4tew==",
+  "success": true,
+  "projectFilePath": "/home/rana.anhar/source/repo/quickstart/src/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/rana.anhar/.nuget/packages/identitymodel/7.0.0/identitymodel.7.0.0.nupkg.sha512",
+    "/home/rana.anhar/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
